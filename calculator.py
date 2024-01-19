@@ -32,8 +32,6 @@ elif choice == '3':
 
 elif choice == '4':
    print(num1,"/",num2,"=", divide(num1,num2))
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
 
 else:
    print("Invalid input ",choice)
