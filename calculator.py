@@ -28,11 +28,10 @@ if choice == '1':
    print(num1,"+",num2,"=", add(num1,num2))
 
 elif choice == '3':
-   print("Not implemented yet")
+   print(x,"*",y,"=", multiply(x,y))
 
 elif choice == '4':
    print(num1,"/",num2,"=", divide(num1,num2))
 
 else:
    print("Invalid input ",choice)
-
